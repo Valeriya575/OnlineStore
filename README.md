@@ -1,1 +1,1 @@
-# OnlineStore
+# OnlineStore for dance schoes.
